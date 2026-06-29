@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/rojo_camp/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/rojo_camp/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/rojo_camp/build" />
+      <excludeFolder url="file://$MODULE_DIR$/rojo_camp/rojocamp_fase1/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/rojo_camp/rojocamp_fase1/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/rojo_camp/rojocamp_fase1/build" />
+      <excludeFolder url="file://$MODULE_DIR$/rojo_camp/rojocamp_fase2/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/rojo_camp/rojocamp_fase2/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/rojo_camp/rojocamp_fase2/build" />
+      <excludeFolder url="file://$MODULE_DIR$/rojo_camp/rojocamp_fase3/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/rojo_camp/rojocamp_fase3/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/rojo_camp/rojocamp_fase3/build" />
+      <excludeFolder url="file://$MODULE_DIR$/rojo_camp/rojocamp_fase4/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/rojo_camp/rojocamp_fase4/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/rojo_camp/rojocamp_fase4/build" />
+      <excludeFolder url="file://$MODULE_DIR$/rojo_camp/rojocamp_fase5/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/rojo_camp/rojocamp_fase5/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/rojo_camp/rojocamp_fase5/build" />
+      <excludeFolder url="file://$MODULE_DIR$/rojo_camp/rojocamp_fase6/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/rojo_camp/rojocamp_fase6/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/rojo_camp/rojocamp_fase6/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
